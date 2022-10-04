@@ -1,0 +1,13 @@
+.home{
+    display: flex;
+}
+.user{
+    width: 70%;
+    margin-right: 10px;
+    border-right: 1px solid gray;
+}
+.cart{
+    width: 30%;
+    margin-left: 30px;
+    
+}
